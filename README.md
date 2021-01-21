@@ -1,4 +1,4 @@
-# mapint
+# Google Map Integration
 
 A new Flutter project.
 
